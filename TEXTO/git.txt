@@ -1,0 +1,1 @@
+Git é uma ferramenta de versionamento de código.
